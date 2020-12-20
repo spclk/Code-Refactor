@@ -1,9 +1,6 @@
-# 01 HTML CSS Git: Code Refactor
+# My Task
 
 My Task
-
-What was your motivation? Why did you build this project? (Note: The answer is not "Because it was a homework assignment.") What problem does it solve? What did you learn? What makes your project stand out?
-Lastly, if your project is deployed, include a link to the deployed application here.
 
 This was my very first challenge with HTML and CSS, being the very first homework assignment in my Coding Bootcamp. 
 I was given a starter code that needed to improve and make accessible. In other words, I had to refactor it, without changing what it does.
@@ -21,7 +18,7 @@ Among many of my changes, here is a list of some of overarching changes I have a
 Being the very first homeworkd project in my Coding Bootcamp, this assignent did present some challenges, but the work was certainly rewarding. 
 
 
-Installation
+# Installation
 
 Please do check out the finished work on my website at: 
 
